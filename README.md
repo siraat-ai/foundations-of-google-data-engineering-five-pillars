@@ -1,10 +1,24 @@
 # **Foundations of Google Data Engineering: Five Pillars**
 
-1️⃣ Data Ingestion – how data actually enters GCS (real-world ways)  
-2️⃣ Dataflow deeper – batch vs streaming (still calm, no code)  
-3️⃣ BigQuery deeper – datasets, tables, partitions (concept level)  
-4️⃣ SQL for Data Engineers – only what you really need  
-5️⃣ Quick recap + confidence check, then continue  
+## **Learning Path — Next Steps**
+
+To continue our journey in a **structured**, **calm**, and **professional** way, choose one of the following focus areas:
+
+**1️⃣ Data Ingestion**  
+Understand **how data enters Google Cloud Storage (GCS)** using **real-world sources and pipelines**.
+
+**2️⃣ Dataflow (Deeper Understanding)**  
+Explore **batch vs. streaming processing**, focusing on **core concepts** without code or complexity.
+
+**3️⃣ BigQuery (Deeper Understanding)**  
+Learn the structure of **datasets**, **tables**, and **partitions** at a **conceptual level**.
+
+**4️⃣ SQL for Data Engineers**  
+Master the **essential SQL skills** required for **data engineering workflows**—nothing extra.
+
+**5️⃣ Recap and Confidence Check**  
+Review key concepts, **reinforce understanding**, and prepare to **move forward confidently**.
+
 
 
 ## **Preface**
